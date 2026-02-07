@@ -23,7 +23,12 @@ Large File Management: Utilized Git LFS to manage 700MB+ raw datasets within the
 📂 Repository Structure
 Plaintext
 ├── .Report/                   # Power BI report metadata and layout
+
 ├── .SemanticModel/            # Data model and DAX measures
+
 ├── Project 1 Airlines/        # Raw datasets (CSV/Excel) managed via Git LFS
+
 ├── airline-flight-delay.pbip   # Main Power BI Project file
+
 └── README.md                  # Project documentation
+
