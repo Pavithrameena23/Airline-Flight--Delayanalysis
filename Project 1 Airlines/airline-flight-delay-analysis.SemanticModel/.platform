@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "airline-flight-delay-analysis"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "7de7c658-57b0-4aeb-98db-20832fad5445"
+  }
+}

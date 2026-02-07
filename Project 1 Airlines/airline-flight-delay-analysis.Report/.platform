@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "airline-flight-delay-analysis"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "2000ea28-b3a0-424a-bb6f-06c5cde01bf1"
+  }
+}

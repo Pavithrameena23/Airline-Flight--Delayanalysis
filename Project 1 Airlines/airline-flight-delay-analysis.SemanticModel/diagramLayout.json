@@ -1,0 +1,87 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "flight",
+          "nodeLineageTag": "70af48f5-6b43-4eff-87db-c8582a321ea1",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 270,
+            "y": 0
+          },
+          "nodeIndex": "cancellation_reason",
+          "nodeLineageTag": "752e2336-d170-475c-b21f-e3a718170e96",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 264,
+            "y": 318
+          },
+          "nodeIndex": "AIRPORT",
+          "nodeLineageTag": "0235cdba-55d7-4f50-8017-e5e8118d3f65",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 558,
+            "y": 138
+          },
+          "nodeIndex": "Airlines",
+          "nodeLineageTag": "04158c0f-7b69-42a2-b99d-9b596ce3a90f",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 577.33332824707031,
+            "y": 2
+          },
+          "nodeIndex": "DAX",
+          "nodeLineageTag": "a2d26cb1-c881-49d0-b5a4-5de27eaac20c",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 4
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
