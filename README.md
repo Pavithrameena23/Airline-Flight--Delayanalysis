@@ -21,7 +21,8 @@ DAX Calculations: Created custom measures for On-Time Performance (OTP %), Avera
 Large File Management: Utilized Git LFS to manage 700MB+ raw datasets within the repository.
 
 📂 Repository Structure
-Plaintext
+
+
 ├── .Report/                   # Power BI report metadata and layout
 
 ├── .SemanticModel/            # Data model and DAX measures
@@ -32,3 +33,4 @@ Plaintext
 
 └── README.md                  # Project documentation
 
+![Flight Delay Dashboard](screenshots/1) Airline Flight Delay Analysis.png)
