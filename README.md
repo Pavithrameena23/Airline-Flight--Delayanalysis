@@ -33,4 +33,5 @@ Large File Management: Utilized Git LFS to manage 700MB+ raw datasets within the
 
 └── README.md                  # Project documentation
 
-![Flight Delay Dashboard](screenshots/ Airline Flight Delay Analysis.png)
+<img width="653" height="368" alt="1) Airline Flight Delay Analysis" src="https://github.com/user-attachments/assets/d475e051-bab2-4a1f-b600-185ebf128e21" />
+
